@@ -6,7 +6,7 @@ You can read a full guide for Flow on `flow.org` but here are some quick tips if
 
 1. Type annotations work very similarly by putting `: type` after variables and arguments
 2. Function return types also use `:` and not `=>` like Swift
-3. For all the primitive types in Javascript, you must use lowercase for the tyeps:
+3. For all the primitive types in Javascript, you must use lowercase for the types:
    - `string` not `String`
    - `number` not `Number` or `Int` or `Float` (Javascript only has a single number type)
    - `boolean` not `Boolean`
